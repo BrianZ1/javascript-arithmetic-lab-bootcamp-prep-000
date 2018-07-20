@@ -14,4 +14,14 @@ function divides(a, b){
   return a / b
 }
 
-function
+function inc(n){
+  return n++
+}
+
+function dec(n){
+  return n--
+}
+
+return makeInt(n){
+  return parseInt(n)
+}
